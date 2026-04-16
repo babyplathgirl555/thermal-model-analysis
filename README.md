@@ -15,8 +15,7 @@ The following models were implemented and compared:
 - Exponential regression  
 
 Additionally, error analysis was performed using:
-
-- Relative error (%)  
+ 
 - Standard error of estimate  
 - Coefficient of determination (R²)  
 - Correlation coefficient (r)
